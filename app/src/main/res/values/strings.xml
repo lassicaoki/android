@@ -6,4 +6,19 @@
     <string name="action_menu3">Menu3</string>
     <string name="action_menu4">Menu4</string>
 
+    <!-- main.xml -->
+    <string name="action_add">追加</string>
+
+    <!-- activity_edit.xml -->
+    <string name="hint_title">タイトル</string>
+    <string name="hint_content">内容</string>
+
+    <!-- edit.xml -->
+    <string name="action_delete">削除</string>
+    <string name="title_activity_edit">EditActivity</string>
+    <string name="edit_activity_title">編集</string>
+    <string name="msg_destruction">メモを破棄しました。</string>
+
+    <string name="context_del">削除</string>
+    <string name="msg_del">削除しました。</string>
 </resources>

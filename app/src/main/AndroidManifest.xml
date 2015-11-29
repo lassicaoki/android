@@ -14,6 +14,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.example.t_aoki.myapplication.EditActivity"
+            android:label="@string/edit_activity_title" >
+        </activity>
     </application>
 
 </manifest>
